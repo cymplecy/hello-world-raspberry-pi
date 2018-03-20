@@ -6,7 +6,7 @@
 
 1. Drag a blue `Inject` node from the list of nodes on the left, into the main flow workspace area
 
-1. Double-click on it and change `Payload` from timestamp to string and type in Hello World and then click `Done`
+1. Double-click on it and change `Payload` from timestamp to string and type in 'Hello World' and then click `Done`
 
 1. On the left pane, scroll down to green `Debug` and drag that out to the right of the Inject node
 
