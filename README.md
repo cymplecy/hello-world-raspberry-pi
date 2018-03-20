@@ -18,7 +18,7 @@ Programming langauges:
 - [Mathematica](examples/mathematica.md)
 - [Wolfram Language](examples/wolfram.md)
 - [Perl](examples/perl.md)
-- [NodeRED](examples/NodeRED.md)
+- [Node-RED](examples/node-red.md)
 
 Other:
 
