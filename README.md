@@ -18,12 +18,12 @@ Programming langauges:
 - [Mathematica](examples/mathematica.md)
 - [Wolfram Language](examples/wolfram.md)
 - [Perl](examples/perl.md)
+- [NodeRED](examples/NodeRED.md)
 
 Other:
 
 - HTML
 - CSS
-- Node-RED
 - [Minecraft (Python)](examples/minecraft.md)
 - Pygame (Python)
 - Pygame Zero (Python)
