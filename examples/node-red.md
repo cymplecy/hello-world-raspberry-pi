@@ -4,7 +4,7 @@
 
 1. Open **Chromium Web Browser** from Internet menu (or click icon at top)
 
-1. Type localhost:1880 into url address box
+1. Type `localhost:1880` into url address box
 
 1. Drag a blue `Inject` node from the list of nodes on the left, into the main flow workspace area
 
