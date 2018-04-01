@@ -4,6 +4,8 @@
 
 1. Open **Chromium Web Browser** from Internet menu (or click icon at top)
 
+1. Type localhost:1880 into url address box
+
 1. Drag a blue `Inject` node from the list of nodes on the left, into the main flow workspace area
 
 1. Double-click on it and change `Payload` from timestamp to string and type in `Hello World` and then click `Done`
